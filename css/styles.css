@@ -11352,11 +11352,11 @@ p.lead {
 }
 
 .subheading-3 {
-  font-size: calc(0.8rem + 1vw);
+  font-size: calc(0.8rem + 0.8vw);
 }
 @media (min-width: 1200px) {
 .subheading-3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 
